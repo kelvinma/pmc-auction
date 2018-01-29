@@ -3,7 +3,7 @@ import {
     UPDATE_USER
 } from '../actions/UserActions'
 
-const defaultAuctionState = {
+export const defaultAuctionState = {
     user: []
 }
 

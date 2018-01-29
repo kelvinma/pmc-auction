@@ -21,3 +21,4 @@ apidocs
 Thumbs.db
 
 public/build/*
+*.css

@@ -1,7 +1,7 @@
-@import '../_app-styles';
-@import '../app';
-@import '../components/auctionList/_auctionItemDetail';
-@import '../components/containers/footer/footer';
-@import '../components/appPage/_appPage';
-@import '../components/containers/header/_header';
-@import '../components/containers/homePage/_homePage';
+@import '../app-styles.scss';
+@import '../app.scss';
+@import '../components/auctionList/auctionItemDetail.scss';
+@import '../components/containers/footer/footer.scss';
+@import '../components/containers/appPage/AppPage.scss';
+@import '../components/containers/header/header.scss';
+@import '../components/containers/homePage/homePage.scss';
