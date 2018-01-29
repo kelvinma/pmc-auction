@@ -1,0 +1,6 @@
+// .bablerc
+
+
+{
+  "presets": ["react", "es2015", "airbnb"],
+}
